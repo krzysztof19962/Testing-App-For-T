@@ -1,0 +1,27 @@
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\Testing App.exe.config
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\Testing App.exe
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\Testing App.pdb
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\Telerik.Windows.Controls.dll
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\Telerik.Windows.Themes.Material.dll
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\Telerik.Windows.Controls.xml
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Testing App.csprojResolveAssemblyReference.cache
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\MainWindow.baml
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Window1.baml
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Window2.baml
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\App.baml
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\MainWindow.g.cs
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Window1.g.cs
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Window2.g.cs
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\App.g.cs
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Testing App_MarkupCompile.cache
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Testing App.g.resources
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Testing_App.Properties.Resources.resources
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Testing App.csproj.GenerateResource.Cache
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Testing App.exe
+c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Testing App.pdb
