@@ -25,3 +25,36 @@ c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing Ap
 c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Testing App.csproj.GenerateResource.Cache
 c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Testing App.exe
 c:\users\krzysztofs\documents\visual studio 2013\Projects\Testing App\Testing App\obj\x86\Debug\Testing App.pdb
+C:\Users\krzys\Desktop\Testing App\Testing App\bin\Debug\Testing App.exe.config
+C:\Users\krzys\Desktop\Testing App\Testing App\obj\x86\Debug\Testing App.exe
+C:\Users\krzys\Desktop\Testing App\Testing App\obj\x86\Debug\Testing App.pdb
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\Testing App.exe.config
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Testing App.exe
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Testing App.pdb
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\Testing App.exe
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\Testing App.pdb
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\Telerik.Windows.Themes.Material.dll
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Testing App.csprojResolveAssemblyReference.cache
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\MainWindow.baml
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Window1.baml
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Window2.baml
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\App.baml
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\MainWindow.g.cs
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Window1.g.cs
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Window2.g.cs
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\App.g.cs
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Testing App_MarkupCompile.cache
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Testing App.g.resources
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Testing_App.Properties.Resources.resources
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Testing App.csproj.GenerateResource.Cache
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\start.g.cs
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\Testing App_MarkupCompile.lref
+C:\Users\krzys\Desktop\Studia\Testing App\Testing App\obj\x86\Debug\start.baml

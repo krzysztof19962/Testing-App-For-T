@@ -5,15 +5,27 @@
                 Title="MainWindow" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Maximized">
     <Grid>
         <TextBox Name="pierwszy"  HorizontalAlignment="Left" Height="40" Margin="5,0,0,0" TextWrapping="Wrap" Text="1. Pierwsze pytanie" VerticalAlignment="Top" Width="200" TextChanged="TextBox_TextChanged"/>
-        <RadioButton Name="trzecipierwszy" Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,120,0,0"/>
-        <RadioButton Name="pierwszypierwszy" Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0"/>
-        <RadioButton Name="drugipierwszy" Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0"/>
-        
+        <RadioButton Name="trzecipierwszy"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,120,0,0">
+            <TextBox Text="Odpowiedz trzecia" Name="textbox1_3"></TextBox>
+        </RadioButton>
+        <RadioButton Name="pierwszypierwszy"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0">
+            <TextBox Text="Odpowiedz pierwsza" Name="textbox1_1"></TextBox>
+        </RadioButton>
+        <RadioButton Name="drugipierwszy" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0">
+            <TextBox Text="Odpowiedz druga" Name="textbox1_2"></TextBox>
+        </RadioButton>
+
         <Grid HorizontalAlignment="Left" Margin="0,160,0,0" VerticalAlignment="Top">
             <TextBox Name="drugi" HorizontalAlignment="Left" Text="2.Drugie pytania" Height="40" VerticalAlignment="Top" Margin="5,0,0,0" TextWrapping="Wrap" Width="200" TextChanged="TextBox_TextChanged"/>
-            <RadioButton Name="trzecidrugi" Content="RadioButton" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,120,0,0"/>
-            <RadioButton Name="pierwszydrugi" Content="RadioButton" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0"/>
-            <RadioButton Name="drugidrugi" Content="RadioButton" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0"/>
+            <RadioButton Name="trzecidrugi" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,120,0,0">
+                <TextBox Text="Odpowiedz trzecia" Name="textbox2_3"></TextBox>
+            </RadioButton>
+            <RadioButton Name="pierwszydrugi"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0">
+                <TextBox Text="Odpowiedz pierwsza" Name="textbox2_1"></TextBox>
+            </RadioButton>
+            <RadioButton Name="drugidrugi"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0">
+                <TextBox Text="Odpowiedz druga" Name="textbox2_2"></TextBox>
+            </RadioButton>
         </Grid>
         <Grid HorizontalAlignment="Left" Margin="0,320,0,0" VerticalAlignment="Top">
             <TextBox Name="trzeci" HorizontalAlignment="Left" Text="3.Trzecie pytanie" Height="40" VerticalAlignment="Top" Margin="5,0,0,0" TextWrapping="Wrap" Width="200" TextChanged="TextBox_TextChanged"/>
