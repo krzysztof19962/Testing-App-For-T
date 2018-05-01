@@ -32,6 +32,7 @@ namespace Testing_App
            createformula(liczba);
         }
 
+        public IList<StackPanel> panele; 
         public IList<Label> pytania;
         public IList<TextBox> formularzpytania;
         public IList<TextBox> odpowiedzi1;
@@ -46,17 +47,36 @@ namespace Testing_App
             formularzpytania = new List<TextBox>();
             for (int i = 0; i < liczba; i++)
             {
-                // Important stuff
-                //StackPanel1.Children.Add(new CheckBox());
+                StackPanel panel = new StackPanel();
                 TextBox pytanie = new TextBox();
-               // ScrollViewer1.Content += pytanie;
-                pytanie.Text = "Udalo sie";
-               // StackPanel1.Children += pytanie;
-                StackPanel1.DataContext = pytanie.DataContext;
+                RadioButton radiop = new RadioButton();
+                RadioButton radiod = new RadioButton();
+                RadioButton radiot = new RadioButton();
+                TextBox odp1 = new TextBox(); 
+                TextBox odp2 = new TextBox();
+                TextBox odp3 = new TextBox();
+                odp1.Width = 300;
+                odp2.Width = 300;
+                odp3.Width = 300;
+                odp1.Text = "1.";
+                odp2.Text = "2.";
+                odp3.Text = "3.";
+            
+                radiop.Content = odp1;
+                radiod.Content = odp2;
+                radiot.Content = odp3;
 
-                // Label pytanie = new Label();
-                //  RadioButton radioguzik = new RadioButton();
-                //  radioguzik.Content = pytanie.Content;
+                string LP;
+                LP = (i+1).ToString();
+                pytanie.Text = LP+"Udalo sie";
+            
+                StackPanel1.Children.Add(pytanie);
+
+                panel.Children.Add(radiop);
+                panel.Children.Add(radiod);
+                panel.Children.Add(radiot);
+                StackPanel1.Children.Add(panel);
+
             }
         }
 

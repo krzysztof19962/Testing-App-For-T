@@ -5,11 +5,10 @@
         Height="650"
         Width="1000">
     <Grid>
-        <ScrollViewer Name="ScrollViewer1" Height="200" VerticalAlignment="Top">
-
-        </ScrollViewer>
-        <StackPanel Name="StackPanel1" Height="300" VerticalAlignment="Bottom">
-            <Label>dupa</Label>
+        <ScrollViewer>
+        <StackPanel Name="StackPanel1" Height="Auto" VerticalAlignment="Top">
+          
         </StackPanel>
+        </ScrollViewer>
     </Grid>
 </Window>
