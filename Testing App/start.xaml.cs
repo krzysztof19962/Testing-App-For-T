@@ -33,9 +33,18 @@ namespace Testing_App
             Window1 okno1 = new Window1(liczbapytanint);
             okno1.Show();
             this.Close();
+         
 
         }
 
-       
+        private void czyszczenietextboxa(object sender, RoutedEventArgs e)
+        {
+            textBoxzliczbapytan.Clear();
+        }
+
+        private void nowamethoda(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }

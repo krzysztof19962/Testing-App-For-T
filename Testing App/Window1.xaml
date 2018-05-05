@@ -6,9 +6,15 @@
         Width="1000">
     <Grid>
         <ScrollViewer>
+            <Grid>
+                <StackPanel>
+                    <Label Name="wynikilabel">Wyniki:</Label>
         <StackPanel Name="StackPanel1" Height="Auto" VerticalAlignment="Top">
           
         </StackPanel>
+            <Button Content="Zatwierdź" Click="zatwierdzClick"></Button>
+                </StackPanel>
+            </Grid>
         </ScrollViewer>
     </Grid>
 </Window>

@@ -9,7 +9,9 @@
     <Grid>
         <Label x:Name="Label1" Content="Podaj liczbę pytań" HorizontalAlignment="Left" Margin="23,47,0,0" VerticalAlignment="Top"/>
         <Button x:Name="button" Content="Zatwierdź" HorizontalAlignment="Left" Margin="192,78,0,0" VerticalAlignment="Top" Width="120" Click="liczbapytan" Height="41"/>
-        <TextBox x:Name="textBoxzliczbapytan" HorizontalAlignment="Left" Height="54"  BorderThickness="1" BorderBrush="Black" Margin="10,78,0,0" TextWrapping="Wrap" Text="Tutaj wpisz liczbe pytan" VerticalAlignment="Top" Width="177" />
+        <TextBox x:Name="textBoxzliczbapytan" GotFocus="czyszczenietextboxa" HorizontalAlignment="Left" Height="54"  BorderThickness="1" BorderBrush="Black" Margin="10,78,0,0" TextWrapping="Wrap" Text="Tutaj wpisz liczbe pytan" VerticalAlignment="Top" Width="180"  />
+        <RadioButton x:Name="radioButton" Content="Radio1" HorizontalAlignment="Left" Margin="129,159,0,0" VerticalAlignment="Top" Checked="nowamethoda"/>
+        <RadioButton x:Name="radioButton1" Content="Radio2" HorizontalAlignment="Left" Margin="254,159,0,0" VerticalAlignment="Top" Click="nowamethoda"/>
 
     </Grid>
 </Window>
