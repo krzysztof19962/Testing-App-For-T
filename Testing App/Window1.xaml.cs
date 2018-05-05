@@ -169,8 +169,9 @@ namespace Testing_App
                // tw.WriteLine(jeden, Encoding.UTF8);
             }
         
+        
             Console.WriteLine("Text created");
-
+            //something
             tw.Close();
             
             Console.WriteLine(Console.Read());
